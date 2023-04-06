@@ -9,11 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://auth.geeksforgeeks.org/user/aditivarshney2461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditivarshney2461" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/aditivarshney_cs20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditivarshney_cs20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditivarshney4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditivarshney6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditi_varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditi_varshney" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aditivarshney06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditivarshney06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditivarshney_cs20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditivarshney_cs20" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aditivarshney2461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditivarshney2461" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
