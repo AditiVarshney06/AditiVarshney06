@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditi Varshney</h1>
-<h3 align="center">Pursuing Bachelor degree in Computer Science</h3>
+<h3 align="center">Completed my Bachelor degree in Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 - 🌱 I’m currently learning **ReactJs and MongoDb**
 
